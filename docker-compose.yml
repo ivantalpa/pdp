@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  mpich_container:
+    container_name: pdp-mpich_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./exercises:/exercises
