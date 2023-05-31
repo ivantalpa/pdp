@@ -70,6 +70,7 @@ This command will pull the latest Ubuntu image, install MPICH and bash, and set 
 - [Exemplul 7.3](exercises/exercise_73.cpp)
 - [Exemplul 7.4](exercises/exercise_74.cpp)
 - [Exemplul 7.4.a](exercises/exercise_74a.cpp)
+- [Exemplul 9.1](exercises/exercise_91.cpp)
 - [Exemplul 10.1](exercises/exercise_10_1.cpp)
 - [Exemplul 10.1](exercises/exercise_10_1_worker.cpp)
 - [Exemplul 10.2](exercises/exercise_10_2.cpp)
