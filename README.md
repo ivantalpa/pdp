@@ -1,4 +1,4 @@
-# Project Title
+# PROGRAMARE PARALELĂ ȘI DISTRIBUITĂ
 
 ## Overview
 
