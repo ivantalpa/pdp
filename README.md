@@ -54,6 +54,22 @@ This command will pull the latest Ubuntu image, install MPICH and bash, and set 
 
 
 ### Exempluri
+- [Exemplul 3.1.1](exercises/exercise_311.cpp)
+- [Exemplul 4.1](exercises/exercise_41.cpp)
+- [Exemplul 4.2](exercises/exercise_42.cpp)
+- [Exemplul 4.3](exercises/exercise_43.cpp)
+- [Exemplul 5.1](exercises/exercise_51.cpp)
+- [Exemplul 5.2](exercises/exercise_52.cpp)
+- [Exemplul 5.2.a](exercises/exercise_52a.cpp)
+- [Exemplul 5.3](exercises/exercise_53.cpp)
+- [Exemplul 5.4](exercises/exercise_54.cpp)
+- [Exemplul 6.1.a](exercises/exercise_61a.cpp)
+- [Exemplul 6.1.b](exercises/exercise_61b.cpp)
+- [Exemplul 7.1](exercises/exercise_71.cpp)
+- [Exemplul 7.2](exercises/exercise_72.cpp)
+- [Exemplul 7.3](exercises/exercise_73.cpp)
+- [Exemplul 7.4](exercises/exercise_74.cpp)
+- [Exemplul 7.4.a](exercises/exercise_74a.cpp)
 - [Exemplul 10.1](exercises/exercise_10_1.cpp)
 - [Exemplul 10.1](exercises/exercise_10_1_worker.cpp)
 - [Exemplul 10.2](exercises/exercise_10_2.cpp)
@@ -83,7 +99,6 @@ This command will pull the latest Ubuntu image, install MPICH and bash, and set 
 - [Exemplul 16.2.1](exercises/exercise_16_2_1.cpp)
 - [Exemplul 16.2.2](exercises/exercise_16_2_2.cpp)
 - [Exemplul 16.2.3](exercises/exercise_16_2_3.cpp)
-- [Exemplul 5.2.a](exercises/exercise_52a.cpp)
 
 ### Exercitii
 - [Exercițiul 3.1](exercises/home_exercise_3_1.cpp)
